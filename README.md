@@ -13,7 +13,7 @@ I'm a Software Engineer dedicated to becoming World-class by improving skills th
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently learning DevOps/ Cloud computing. 
 - 💼 Job interests: Software Engineer, Backend Engineer, or Cloud Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1vFHsHR5V_puCn0dFYK01ROCJYFaSgAwN/view?usp=sharing) and contact me by emailing oyebanjiakeem@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/19xE7kREeOOJ2C0rxZLn-CXOEkZgisjl5/view?usp=drivesdk) and contact me by emailing oyebanjiakeem@gmail.com.
 
 ---
 ## GITHUB STATS :bar_chart:
