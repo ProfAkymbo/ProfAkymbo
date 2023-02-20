@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-portfolio.profakymbo.repl.co-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio.profakymbo.repl.co)](https://profakymbo.github.io/myportfolio/) [![Linkedin Badge](https://img.shields.io/badge/-oyebanjiakeemolawale-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyebanjiakeemolawale)](https://www.linkedin.com/in/oyebanjiakeemolawale) [![Twitter Badge](https://img.shields.io/badge/-@ProfAkymbo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ProfAkymbo)](https://twitter.com/ProfAkymbo)
 
-I'm a Software Engineer dedicated to becoming World-class by improving skills through hands-on and development, Well organized and collaborative professional. I love to research and learn new technologies. More about me here [Linkedin](https://linkedin.com/in/oyebanjiakeemolawale), [Twitter](https://mobile.twitter.com/ProfAkymbo). currently works as a Backend Developer at Scrybe-It startup and as a STEM Educator(Kid's Coding) at TechBridge Consulting.
+I'm a Software Engineer dedicated to becoming World-class by improving skills through hands-on and development, Well organized and collaborative professional. I love to research and learn new technologies. More about me here [Linkedin](https://linkedin.com/in/oyebanjiakeemolawale), [Twitter](https://mobile.twitter.com/ProfAkymbo). currently works as a Cloud/Backend Developer at Scrybe-It startup and as a STEM Educator(Kid's Coding) at TechBridge Consulting.
 ## MY TECH STACK 🧰 🛠
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -11,8 +11,8 @@ I'm a Software Engineer dedicated to becoming World-class by improving skills th
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently learning DevOps/ Cloud computing. 
-- 💼 Job interests: Software Engineer, Backend Engineer, or Cloud Engineer.
+- 💡 Fun fact: I'm currently learning Data Engineering. 
+- 💼 Job interests: DevOps Engineer, Backend Engineer, or Cloud Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1EKF-3FQR_3djaEkUt1lU7JcQjA6npWNeqNHRhG90tE0/edit) and contact me by emailing oyebanjiakeem@gmail.com.
 
 ---
