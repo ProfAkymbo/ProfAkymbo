@@ -12,7 +12,7 @@ I'm a dedicated Cloud Data Engineer, well organized and collaborative profession
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently learning MLOps. 
 - 💼 Job interests: Cloud/DevOps Engineer || Data Engineer.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1EKF-3FQR_3djaEkUt1lU7JcQjA6npWNeqNHRhG90tE0/edit) and contact me by emailing oyebanjiakeem@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1saAH8OuyBbC3PnQGaK76OluXvNxNCRrt/view?usp=drivesdk) and contact me by emailing oyebanjiakeem@gmail.com.
 
 ---
 ## GITHUB STATS :bar_chart:
