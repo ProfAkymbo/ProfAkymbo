@@ -5,14 +5,14 @@
 
 I'm a dedicated Cloud Data Engineer, well organized and collaborative professional. I love to research and learn new technologies. More about me here [Linkedin](https://linkedin.com/in/oyebanjiakeemolawale), [Twitter](https://mobile.twitter.com/ProfAkymbo). Currently works as a Cloud Data Engineer with Cecure Intelligence Limited and as a STEM Advocate in my community.
 ## MY TECH STACK 🧰 🛠
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=aws&logoColor=white)
+![TERRAFORM](https://img.shields.io/badge/Terraform-F7DF1E?style=for-the-badge&logo=terraform&logoColor=purple) ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-777BB4?style=for-the-badge&logo=jenkins&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=aws&logoColor=white)
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently learning MLOps. 
+- 💡 Fun fact: I'm currently learning AI Automation. 
 - 💼 Job interests: Cloud/DevOps Engineer || Data Engineer.
-- 📫 You can [view my resume](https://docs.google.com/document/d/19G5NkGRWMV1_yO5qaVcAvVNqaEVjtnljsHiTJcSRVZw/edit) and contact me by emailing oyebanjiakeem@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1xlsLVWWVFrNX9_5wyZGKI-M6hXU72pwK0qKzmd1mXMc/edit?usp=sharing) and contact me by emailing oyebanjiakeem@gmail.com.
 
 ---
 ## GITHUB STATS :bar_chart:
