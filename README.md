@@ -10,7 +10,7 @@ I'm a dedicated Cloud Data Engineer, well organized and collaborative profession
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently learning AI Automation. 
+- 💡 Fun fact: I'm currently learning AI Security/Automation. 
 - 💼 Job interests: Cloud/DevOps Engineer || Data Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1xlsLVWWVFrNX9_5wyZGKI-M6hXU72pwK0qKzmd1mXMc/edit?usp=sharing) and contact me by emailing oyebanjiakeem@gmail.com.
 
